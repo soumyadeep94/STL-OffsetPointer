@@ -1,0 +1,6 @@
+# Explicitly ignore specific project files
+OffsetPointer.vcxproj
+OffsetPointer.vcxproj.filters
+OffsetPointer.vcxproj.user
+
+x64/
