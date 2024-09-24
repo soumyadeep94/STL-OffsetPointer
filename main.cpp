@@ -11,7 +11,7 @@ struct Node {
 
 int main()
 {
-	const int numNodes = 5;
+	const int numNodes = 10;
 	Node nodes[numNodes];
 
 	for (int i = 0; i < numNodes - 1; ++i) {
